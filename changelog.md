@@ -23,4 +23,4 @@ v0.4
 
 
 
-git log v0.3...v0.5 --pretty=format:'- [view commit](http://github.com/janaanaj1234567/Naturseifen/commit/%H) &bull; %s ' --reverse
+git log v0.2...v0.3 --pretty=format:'- [view commit](http://github.com/janaanaj1234567/Naturseifen/commit/%H) &bull; %s ' --reverse
