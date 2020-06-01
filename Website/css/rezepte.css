@@ -4,16 +4,12 @@
   background-position: center center; 
   background-size: cover;
   height: 280px;
-  padding: 0;
-  margin: 0;
-  display: block;
   }
 
   .blätter span {
     position: absolute;
-    bottom: 0;
+    line-height: 3.5em;
     width: 100%;
-    line-height: 12em;
     text-align: center;
     color: white;
     font-size: 90px;
@@ -26,9 +22,7 @@
     margin-left: auto;
     margin-right: auto;
     position: absolute;
-    bottom: 0;
     width: 97%;
-    line-height: 40em;
     color: white;
     font-size: 30px;
     font-family: 'Barlow';
@@ -50,7 +44,7 @@
     
     
   .navitems {
-    margin-top: 50px;
+    margin-top: -230px;
     list-style: none;
     display: flex;
   }	
@@ -58,13 +52,13 @@
   
   .navitems a {
     color: white;
-    padding: 6px 14px;
     text-decoration: none;
+    padding: 6px 14px;
   }
   
   
   .navitems a:hover{
-    color: rgb(216, 174, 41);
+    color: rgb(175, 103, 87);
   }
   
   .content{
@@ -159,4 +153,15 @@
     font-family: 'Barlow';
     font-weight: 400;
     font-size: 25px;
+  }
+
+  footer {
+    font-size: 20px;
+    font-family: 'Barlow';
+    font-weight: 400;
+    margin-top: 30px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(190, 142, 138);
+    color: white;
   }

@@ -4,16 +4,12 @@
   background-position: center center; 
   background-size: cover;
   height: 280px;
-  padding: 0;
-  margin: 0;
-  display: block;
   }
 
   .blätter span {
     position: absolute;
-    bottom: 0;
+    line-height: 3.5em;
     width: 100%;
-    line-height: 12em;
     text-align: center;
     color: white;
     font-size: 90px;
@@ -26,9 +22,7 @@
     margin-left: auto;
     margin-right: auto;
     position: absolute;
-    bottom: 0;
     width: 97%;
-    line-height: 40em;
     color: white;
     font-size: 30px;
     font-family: 'Barlow';
@@ -50,7 +44,7 @@
     
     
   .navitems {
-    margin-top: 50px;
+    margin-top: -230px;
     list-style: none;
     display: flex;
   }	
@@ -58,13 +52,13 @@
   
   .navitems a {
     color: white;
-    padding: 6px 14px;
     text-decoration: none;
+    padding: 6px 14px;
   }
   
   
   .navitems a:hover{
-    color: rgb(216, 174, 41);
+    color: rgb(175, 103, 87);
   }
   
   .content{
@@ -93,6 +87,7 @@
     width: 70%;
     float: left;
     margin-left: 20px;
+    margin-right: 20px;
   }
 
   .herstellungbild2{
@@ -109,7 +104,7 @@
 	  display: flex;
     margin-top: 100px;
     margin-left: 35px;
-    margin-right: 20px;
+    margin-right: 35px;
     font-family: 'Barlow';
     font-weight: 400;
     line-height: 30px;
@@ -117,29 +112,40 @@
   }
 
   .herstellungbild3{
-    height: 280px;
-    width: 500px;
+    height: 300px;
+    width: 600px;
     background-image: url(../../../../../../gbc/Informatik/Webseite/Naturseifen2/Website/bilder/herstellung3.png);
     background-size: cover;
   }
 
   .herstellungbild4{
-    height: 280px;
-    width: 500px;
+    height: 300px;
+    width: 600px;
     background-image: url(../../../../../../gbc/Informatik/Webseite/Naturseifen2/Website/bilder/herstellung4.png);
     background-size: cover;
   }
 
   .herstellungbild5{
-    height: 280px;
-    width: 500px;
+    height: 300px;
+    width: 600px;
     background-image: url(../../../../../../gbc/Informatik/Webseite/Naturseifen2/Website/bilder/herstellung5.png);
     background-size: cover;
   }
 
   .herstellungbild6{
-    height: 280px;
-    width: 500px;
+    height: 300px;
+    width: 600px;
     background-image: url(../../../../../../gbc/Informatik/Webseite/Naturseifen2/Website/bilder/herstellung6.jpg);
     background-size: cover;
+  }
+
+  footer {
+    font-size: 20px;
+    font-family: 'Barlow';
+    font-weight: 400;
+    margin-top: 30px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(190, 142, 138);
+    color: white;
   }
