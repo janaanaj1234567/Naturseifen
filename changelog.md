@@ -40,3 +40,6 @@ v0.7
 - [view commit](http://github.com/janaanaj1234567/Naturseifen/commit/9166b738d3750c3e1f0da587d4c8a38eed2808eb) &bull; Vollendung 
 - [view commit](http://github.com/janaanaj1234567/Naturseifen/commit/bf5dc8e9ddb9acfcf4870cd31938ee158c498448) &bull; Direct commit 
 
+v0.8
+/
+- [view commit](http://github.com/janaanaj1234567/Naturseifen/commit/dee2cc4fff242e0156c275754240ccb745f6e901) &bull; Direct commit 
